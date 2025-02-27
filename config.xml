@@ -17,11 +17,11 @@
 
     <!-- Ikony dla Android -->
     <platform name="android">
-        <icon src="res/android/icon/icon-36-ldpi.png" density="ldpi" />
-        <icon src="res/android/icon/icon-48-mdpi.png" density="mdpi" />
-        <icon src="res/android/icon/icon-72-hdpi.png" density="hdpi" />
-        <icon src="res/android/icon/icon-96-xhdpi.png" density="xhdpi" />
-        <icon src="res/android/icon/icon-144-xxhdpi.png" density="xxhdpi" />
-        <icon src="res/android/icon/icon-192-xxxhdpi.png" density="xxxhdpi" />
+        <icon src="res/android/icon/ldpi.png" density="ldpi" />
+        <icon src="res/android/icon/mdpi.png" density="mdpi" />
+        <icon src="res/android/icon/hdpi.png" density="hdpi" />
+        <icon src="res/android/icon/xhdpi.png" density="xhdpi" />
+        <icon src="res/android/icon/xxhdpi.png" density="xxhdpi" />
+        <icon src="res/android/icon/xxxhdpi.png" density="xxxhdpi" />
     </platform>
 </widget>
